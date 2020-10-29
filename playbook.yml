@@ -3,4 +3,4 @@
   tasks:
     - name: Installing httpd
       apt:
-        name: tree
+        name: treeps
